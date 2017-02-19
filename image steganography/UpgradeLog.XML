@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PictureKey">
+</Property><Property Name="Solution File" Value="H:\steganodotnet3_src\PictureKey.sln">
+</Property><Property Name="Date" Value="Thursday, October 11, 2012">
+</Property><Property Name="Time" Value="20:13 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PictureKey.sln" Description="File successfully backed up as H:\steganodotnet3_src\Backup\PictureKey.sln">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="PictureKey.csproj" Description="Project file successfully backed up as H:\steganodotnet3_src\Backup\PictureKey.csproj">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="CryptUtility.cs" Description="File successfully backed up as H:\steganodotnet3_src\Backup\CryptUtility.cs">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="Form1.cs" Description="File successfully backed up as H:\steganodotnet3_src\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="ImageFilesDialog.cs" Description="File successfully backed up as H:\steganodotnet3_src\Backup\ImageFilesDialog.cs">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="KeyFilesDialog.cs" Description="File successfully backed up as H:\steganodotnet3_src\Backup\KeyFilesDialog.cs">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="TypeDefs.cs" Description="File successfully backed up as H:\steganodotnet3_src\Backup\TypeDefs.cs">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="Form1.resx" Description="File successfully backed up as H:\steganodotnet3_src\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="ImageFilesDialog.resx" Description="File successfully backed up as H:\steganodotnet3_src\Backup\ImageFilesDialog.resx">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="KeyFilesDialog.resx" Description="File successfully backed up as H:\steganodotnet3_src\Backup\KeyFilesDialog.resx">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="PictureKey.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PictureKey" Source="PictureKey.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="PictureKey.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PictureKey.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="PictureKey" Source="PictureKey.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
